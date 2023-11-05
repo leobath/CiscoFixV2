@@ -11,9 +11,9 @@ class Program
         ProcessStartInfo psi = new ProcessStartInfo
         {
             FileName = "powershell.exe",
-            Verb = "runas",  // Run as administrator
+            //Verb = "runas",  // Run as administrator
             Arguments = $"-NoProfile -ExecutionPolicy Bypass -Command \"{powerShellCommand}\"",
-            UseShellExecute = true
+            //UseShellExecute = true
         };
 
         try
