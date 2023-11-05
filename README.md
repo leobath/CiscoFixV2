@@ -7,3 +7,5 @@ Copy&Paste /CiscoFix/bin/Release/net7.0 folder. Right click with 'Administrator 
 If it doesn't work please turn off UAC from Windows Settings.
 
 [CiscoFixV2.zip](https://github.com/leobath/CiscoFixV2/blob/master/CiscoFixV2/bin/Release/net7.0/CiscoFixV2.zip)
+
+<a id="raw-url" href="https://github.com/leobath/CiscoFixV2/blob/master/CiscoFixV2/bin/Release/net7.0/CiscoFixV2.zip">Download FILE</a>
